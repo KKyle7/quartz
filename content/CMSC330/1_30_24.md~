@@ -1,0 +1,16 @@
+---
+title: Intro to OCAML
+tags:
+ - 1.30.24
+ - cmsc330
+---
+
+# Typing
+
+- Typing/typing systems is determing what is the data and how it can be used
+  - Typically language dependent
+    - For instance, true and false are boolean in Java but int in C
+
+# Fuctional Programming
+
+# Functions and Expressions

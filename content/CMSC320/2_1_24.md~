@@ -1,0 +1,30 @@
+---
+title: Data
+tags:
+ - cmsc320
+ - 2.1.24
+---
+
+# Kinds of data
+
+- There are 2 types of data, each with different subtypes
+  - Quantitative
+    - Discrete
+    - Continuous
+  - Qualitative
+    - Structured
+    - Unstructured
+
+flowchart TD;
+	  Data Types-->Quantitative;
+	  Data Types-->Qualitative;
+	  Quantitative-->Discrete;
+	  Quantitative-->Continuous;
+	  Qualitative-->Structured;
+	  Qualitative--Unstructured;
+
+# Ways to represent data
+- Tabular data (tables)
+   Structured
+- Text
+  - Human-readable
